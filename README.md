@@ -30,6 +30,11 @@ Clone / copy snippets to your Sublime Text User path:
 * i-youtube
 
 
+## Icon Previews
+
+![Icon Previews](https://cloud.githubusercontent.com/assets/1136114/9256847/03b757da-41ea-11e5-9177-b31850fa22cd.png)
+
+
 ## License
 
 MIT © [Simon Owen](http://s10wen.com)
