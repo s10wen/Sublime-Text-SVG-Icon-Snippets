@@ -14,6 +14,22 @@ Clone / copy snippets to your Sublime Text User path:
 ```
 
 
+## Icon Shortcuts
+
+i-facebook
+i-github
+i-googleplus
+i-hackernews
+i-instagram
+i-linkedin
+i-mail
+i-pinterest
+i-reddit
+i-tumblr
+i-twitter
+i-youtube
+
+
 ## License
 
 MIT © [Simon Owen](http://s10wen.com)
