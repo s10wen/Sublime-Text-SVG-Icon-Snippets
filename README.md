@@ -7,6 +7,15 @@
 
 ## Install
 
+### Sublime Text Package Manager
+
+If you don't already have it, install the Sublime Text Package Manager:
+https://packagecontrol.io/installation
+
+Then open Sublime Text > <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>p</kbd> > `install package` > <kbd>Enter</kbd> > `SVG Icons` > <kbd>Enter</kbd>
+
+### Manually
+
 Clone / copy snippets to your Sublime Text User path:
 
 ```
