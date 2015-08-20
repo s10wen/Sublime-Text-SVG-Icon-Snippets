@@ -43,7 +43,7 @@ Clone / copy snippets to your Sublime Text User path:
 
 ## Icon Previews
 
-![Icon Previews](https://cloud.githubusercontent.com/assets/1136114/9256847/03b757da-41ea-11e5-9177-b31850fa22cd.png)
+![Icon Previews](https://cloud.githubusercontent.com/assets/1136114/9393771/fa94d2ee-477b-11e5-9db4-16301b17e76e.png)
 
 
 ## License
