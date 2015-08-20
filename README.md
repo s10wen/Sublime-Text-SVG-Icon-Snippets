@@ -25,6 +25,8 @@ Clone / copy snippets to your Sublime Text User path:
 
 ## Icon Shortcuts
 
+* i-dribbble-ball
+* i-dribbble-logo
 * i-facebook
 * i-github
 * i-googleplus
