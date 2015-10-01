@@ -46,6 +46,11 @@ Clone / copy snippets to your Sublime Text User path:
 ![Icon Previews](https://cloud.githubusercontent.com/assets/1136114/9393771/fa94d2ee-477b-11e5-9db4-16301b17e76e.png)
 
 
+## Additional Information
+
+[Related blog post and screencast](http://s10wen.com/blog/2015/08/15/post-SVG-Icons-Sublime-Text-Package/)
+
+
 ## License
 
 MIT © [Simon Owen](http://s10wen.com)
