@@ -39,11 +39,13 @@ Clone / copy snippets to your Sublime Text User path:
 * i-tumblr
 * i-twitter
 * i-youtube
+* i-stackoverflow-icon
+* i-stackoverflow-full
 
 
 ## Icon Previews
 
-![Icon Previews](https://cloud.githubusercontent.com/assets/1136114/9393771/fa94d2ee-477b-11e5-9db4-16301b17e76e.png)
+![Icon Previews](images/icons-preview.html)
 
 
 ## Additional Information

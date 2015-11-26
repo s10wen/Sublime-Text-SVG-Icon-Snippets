@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 99.6 117.9"><path fill="#BCBBBB" d="M84.1 107.4V75.8h10.5v42.1H0V75.8h10.5v31.6"/><path fill="#F48023" d="M22.1 72.9l51.5 10.8 2.2-10.3-51.5-10.8-2.2 10.3zm6.8-24.6l47.7 22.2L81 61 33.3 38.7l-4.4 9.6zm13.2-23.4l40.4 33.7 6.7-8.1-40.4-33.7-6.7 8.1zM68.2 0l-8.4 6.3 31.4 42.2 8.4-6.3L68.2 0zM21 96.8h52.6V86.3H21v10.5z"/></svg>
+]]></content>
+    <tabTrigger>i-stackoverflow-icon</tabTrigger>
+    <description>SVG Icon Stack Overflow</description>
+</snippet>
