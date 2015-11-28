@@ -45,7 +45,7 @@ Clone / copy snippets to your Sublime Text User path:
 
 ## Icon Previews
 
-![Icon Previews](/images/icons-preview.jpg)
+![Icon Previews](/images/icons-preview.png)
 
 
 ## Additional Information
